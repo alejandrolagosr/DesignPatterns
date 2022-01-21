@@ -9,13 +9,13 @@ fun main() {
     println("Mexico currency is: ${mexicoCurrency.code}")
 
     val usaCurrency = currencyFactory.getCurrencyForCountry(Country.USA)
-    println("Mexico currency is: ${usaCurrency.code}")
+    println("USA currency is: ${usaCurrency.code}")
 
     val spainCurrency = currencyFactory.getCurrencyForCountry(Country.Spain)
-    println("Mexico currency is: ${spainCurrency.code}")
+    println("Spain currency is: ${spainCurrency.code}")
 
     val canadaCurrency = currencyFactory.getCurrencyForCountry(Country.Canada)
-    println("Mexico currency is: ${canadaCurrency.code}")
+    println("Canada currency is: ${canadaCurrency.code}")
 
     println("--- --- ---")
 }
