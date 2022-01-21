@@ -1,4 +1,4 @@
-package decorator
+package structural.decorator
 
 open class CoffeeDecoratorImpl(protected var coffeeDecorator: CoffeeDecorator): CoffeeDecorator {
 

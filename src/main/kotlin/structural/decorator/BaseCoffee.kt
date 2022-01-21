@@ -1,4 +1,4 @@
-package decorator
+package structural.decorator
 
 class BaseCoffee: CoffeeDecorator {
 

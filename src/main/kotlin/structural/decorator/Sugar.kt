@@ -1,4 +1,4 @@
-package decorator
+package structural.decorator
 
 class Sugar(coffeeDecorator: CoffeeDecorator): CoffeeDecoratorImpl(coffeeDecorator) {
     override fun getIngredient(): String {

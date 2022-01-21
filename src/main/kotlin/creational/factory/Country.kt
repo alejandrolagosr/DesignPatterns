@@ -1,4 +1,4 @@
-package factory
+package creational.factory
 
 sealed class Country {
     object Mexico : Country()

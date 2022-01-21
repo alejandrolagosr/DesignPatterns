@@ -1,6 +1,6 @@
-package factory
+package creational.factory
 
-import factory.Country.*
+import creational.factory.Country.*
 
 class CurrencyFactoryImpl: CurrencyFactory {
 
