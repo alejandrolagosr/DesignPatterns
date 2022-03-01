@@ -1,3 +1,3 @@
 
-rootProject.name = "DesignPatterns"
+rootProject.name = "design-patterns-kotlin"
 
