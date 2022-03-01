@@ -1,5 +1,8 @@
 package structural.decorator
 
+/**
+ * The Decorator pattern dynamically attaches additional responsibilities to an object to extended its functionality at runtime.
+ */
 fun main() {
     println("--- Decorator Example ---")
 
