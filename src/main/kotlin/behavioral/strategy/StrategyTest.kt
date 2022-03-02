@@ -1,5 +1,9 @@
 package behavioral.strategy
 
+/**
+ * You use a Strategy pattern when you have multiple objects of the same nature with different functionalities.
+ */
+
 fun main() {
     println("--- Strategy Example ---")
 
